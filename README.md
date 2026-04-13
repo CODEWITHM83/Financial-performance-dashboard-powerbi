@@ -34,9 +34,7 @@ The goal of this project is to:
 
 ---
 
-## 📊 Dashboard Preview
 
-![Dashboard](Images/dashboard.png)
 
 ---
 
